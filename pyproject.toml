@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pplate"
-version = "0.1.0"
+version = "0.1.1"
 description = "A CLI to create, manage and use your own boilerplates"
 authors = ["hidekimsk <Lucasmsk11@gmail.com>"]
 license = "MIT"
