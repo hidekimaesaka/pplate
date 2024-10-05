@@ -24,4 +24,4 @@ def load():
     """
     Load the portal gun
     """
-    typer.echo("Loading portal gun")
+    typer.echo("Loading")
