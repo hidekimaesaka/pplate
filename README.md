@@ -1,2 +1,2 @@
 # pplate
-cli app for python boilerplates
+cli app to creating boilerplates of python projects
